@@ -1,0 +1,44 @@
+.fundo {
+  background-image: url("../fundo.png");
+  background-repeat: repeat;
+}
+
+.fundo2 {
+  background-image: url("../fundo2.png");
+  background-repeat: repeat;
+}
+
+.logo {
+  margin: 25px 1px 1px 502px;
+}
+
+.link {
+  margin: -40px 0px 0px 1206px;
+  text-decoration: unset;
+}
+
+a:hover,
+A:visited {
+  background-color: cyan;
+  color: black;
+}
+
+.imagem {
+  margin: 39px 0px 0px 502px;
+}
+
+.texto {
+  margin: 20px 0px 0px 502px;
+  padding: 0px 0px 0px 0px;
+}
+
+.tabela {
+  margin: 1px 0px 0px 499px;
+  padding: auto;
+  width: 48%;
+}
+
+.rodape {
+  font-weight: bold;
+  margin: 22px 16px 0px 856px;
+}
